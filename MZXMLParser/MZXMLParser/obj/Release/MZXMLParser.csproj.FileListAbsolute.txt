@@ -1,7 +1,0 @@
-D:\submitfile\code\MZXMLParser\MZXMLParser\bin\Release\MZXMLParser.exe.config
-D:\submitfile\code\MZXMLParser\MZXMLParser\bin\Release\MZXMLParser.exe
-D:\submitfile\code\MZXMLParser\MZXMLParser\bin\Release\MZXMLParser.pdb
-D:\submitfile\code\MZXMLParser\MZXMLParser\obj\Release\MZXMLParser.csproj.AssemblyReference.cache
-D:\submitfile\code\MZXMLParser\MZXMLParser\obj\Release\MZXMLParser.csproj.CoreCompileInputs.cache
-D:\submitfile\code\MZXMLParser\MZXMLParser\obj\Release\MZXMLParser.exe
-D:\submitfile\code\MZXMLParser\MZXMLParser\obj\Release\MZXMLParser.pdb
