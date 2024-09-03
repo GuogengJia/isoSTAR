@@ -1,0 +1,33 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SESTARdll.cpp
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(60,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(136,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(137,1): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(141,27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(492,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(492,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(519,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(610,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(645,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(673,45): warning C4305: “初始化”: 从“double”到“float”截断
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(674,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(678,26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(699,22): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(722,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(734,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(749,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1012,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1014,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1016,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1092,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1093,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1132,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(1153,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 D:\submitfile\code\SESTARdll\Release\SESTAR.lib 和对象 D:\submitfile\code\SESTARdll\Release\SESTAR.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\submitfile\code\SESTARdll\SESTARdll\SESTARdll.cpp(302): warning C4172: 返回局部变量或临时变量的地址: r
+  All 622 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SESTARdll.vcxproj -> D:\submitfile\code\SESTARdll\Release\SESTAR.dll
