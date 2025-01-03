@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAWParser", "RAWParser\RAWParser.csproj", "{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Debug|x64.ActiveCfg = Debug|x64
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Debug|x64.Build.0 = Debug|x64
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Release|x64.ActiveCfg = Release|x64
+		{07E8C9AD-3FD9-4DE4-B1DC-A36ED399A321}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D30A282C-9F7B-4A82-86CA-2A7A9A43BBAA}
+	EndGlobalSection
+EndGlobal

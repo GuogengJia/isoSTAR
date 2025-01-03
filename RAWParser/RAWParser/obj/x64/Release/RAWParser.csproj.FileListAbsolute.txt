@@ -1,0 +1,11 @@
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\RAWParser.exe.config
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\RAWParser.exe
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\RAWParser.pdb
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\ThermoFisher.CommonCore.Data.dll
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\ThermoFisher.CommonCore.RawFileReader.dll
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\ThermoFisher.CommonCore.Data.xml
+D:\submitfile\code\RAWParser\RAWParser\bin\x64\Release\ThermoFisher.CommonCore.RawFileReader.xml
+D:\submitfile\code\RAWParser\RAWParser\obj\x64\Release\RAWParser.csproj.AssemblyReference.cache
+D:\submitfile\code\RAWParser\RAWParser\obj\x64\Release\RAWParser.csproj.CoreCompileInputs.cache
+D:\submitfile\code\RAWParser\RAWParser\obj\x64\Release\RAWParser.exe
+D:\submitfile\code\RAWParser\RAWParser\obj\x64\Release\RAWParser.pdb
